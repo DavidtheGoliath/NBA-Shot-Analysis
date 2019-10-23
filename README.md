@@ -1,4 +1,5 @@
 # NBA Shot Analysis
+https://towardsdatascience.com/using-python-pandas-and-plotly-to-generate-nba-shot-charts-e28f873a99cb
 
 ## Goal
 Build a classification model to predict whether and NBA shot will go in or not, and create visualizations to help general managers, coaches, and players identify shooting patterns, eliminate bad shots, and optimize their strategy to increase shooting efficiency.
